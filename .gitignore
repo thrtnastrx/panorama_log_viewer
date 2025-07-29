@@ -1,0 +1,26 @@
+cat > # Build outputs
+build/
+dist/
+*.spec
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+# macOS
+.DS_Store
+*.dmg
+
+# Config files with sensitive data
+config.json
+
+# Cache
+Library/
+
+# IDE
+.vscode/
+.idea/
