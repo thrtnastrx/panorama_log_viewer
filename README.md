@@ -15,7 +15,7 @@ A macOS menu bar application for viewing and managing Palo Alto Networks Panoram
 ## Installation
 
 1. Download the latest release from the [Releases](../../releases) page
-2. Drag **Panorama Log Viewer.app** to your Applications folder
+2. Unzip and drag **Panorama Log Viewer.app** to your Applications folder
 3. Launch the app - it will appear in your menu bar
 
 ## Usage
