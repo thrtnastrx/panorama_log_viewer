@@ -1,6 +1,6 @@
 # Panorama Log Viewer
 
-A macOS menu bar application for viewing and managing Palo Alto Networks Panorama administration logs.
+A macOS menu bar application for viewing Palo Alto Panorama logs.  View recent changes sorted by admin, view failed commits by admin, auto copy and export to file.  Quickly search logs for keywords and export to file, or view in the app.  
 
 ## Features
 
