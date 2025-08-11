@@ -19,6 +19,7 @@ A macOS menu bar application for viewing Palo Alto Panorama logs.  View recent c
 3. Launch the app - it will appear in your menu bar
 
 ## Usage
+- **Note** - If options appear "greyed out" it's because there is an open window somewhere.
 
 ### First Setup
 1. Click the menu bar icon
@@ -27,8 +28,8 @@ A macOS menu bar application for viewing Palo Alto Panorama logs.  View recent c
 4. The app will automatically fetch and display your logs
 
 ### Daily Use
-- **Refresh Logs** - Get the latest log entries
-- **Sync 5000/10000 Logs** - Download extended history
+- **Refresh Logs** - Get the latest log entries (~500 logs)
+- **Sync 5000/10000 Logs** - Download extended history (May take up to 2 min)
 - **Search Logs** - Find specific configuration changes
 - **Options** - Customize display and filtering
 
